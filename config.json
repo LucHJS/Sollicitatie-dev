@@ -1,0 +1,25 @@
+{
+    "embedColor": "#FF7171",
+    "GuildId": "1219288955174780978",
+    "MongoURI": "mongodb+srv://jan:peter@cluster0.avgnecd.mongodb.net/?retryWrites=true&w=majority",
+    "DistubeEmbedColor": "0059FF",
+    "JTC": "1063458273610706974",
+    "BeginTicketName": "algemeen",
+    "SollicitatieLogChannel": "1219299413487386775",
+    "Token": "MTIxOTI4ODQzNTI3ODIyMTMzMg.GsrGr-.ZfSkmlexPaswvfzFkhznIIbF_upy8Iv9urzgxg",
+    "Prefix": "!",
+    "counting": "1219304064412553286",
+
+    
+    "tickets": {
+        "vragen": "1219302140837629973",
+        "solicitatie": "1219302140837629973",
+        "partner": "1219302140837629973",
+       
+
+
+
+        "support": "1219290731257270302",
+        "logs": "1219299413487386775"
+    }
+}
